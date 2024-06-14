@@ -1,1 +1,2 @@
-Hallo, ich bin LisJa752
+Hallo, ich bin LisJa752.
+Notiz: Ich arbeite gerade an meiner ersten Git-Aufgabe.
